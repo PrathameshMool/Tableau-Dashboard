@@ -8,7 +8,7 @@ The goal of this project was to create a financial complaints dashboard using Ta
 
 The dashboard included a variety of charts and graphs, such as bar charts, pie charts, and maps, to represent data in an easy-to-understand format. It also included interactive features, such as filters and parameters, to allow users to customize the data displayed on the dashboard and focus on specific areas of interest.
 
-The complaint data used to populate the dashboard was sourced from the financial institution's internal complaint database. The data was cleaned and prepped for analysis using a combination of Excel and Tableau's data preparation tools.
+The data was cleaned and prepped for analysis using a combination of Excel and Tableau's data preparation tools.
 
 Overall, the financial complaints dashboard provides a valuable resource for the financial institution to monitor and track the volume and types of complaints received, as well as identify trends and areas for improvement. It also provides a transparent view of the institution's customer service and complaint resolution processes for external stakeholders, such as regulators and customers.
 
