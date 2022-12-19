@@ -16,7 +16,7 @@ The dashboard included a variety of charts and graphs, such as bar charts, pie c
 https://public.tableau.com/app/profile/prathamesh.mool/viz/Project1FinancialComplaintsDashboard/financialcomplainsoverview?publish=yes
 
 
-![db_objects](images/Financial_complaint_over_view.png)
+![db_objects](Financial Complaints Dashboard Project/images/Financial_complaint_over_view.png)
 ____________________________________________________________________________________________________________________________________________________________________
 
 
