@@ -10,3 +10,6 @@ The data was cleaned and prepped for analysis using a combination of Excel and T
 
 You can visit the public dashbord Following this link
 https://public.tableau.com/app/profile/prathamesh.mool/viz/Project1FinancialComplaintsDashboard/financialcomplainsoverview?publish=yes
+
+## Dashboard
+![db_objects](Images/dashboard.png)
