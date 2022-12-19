@@ -23,8 +23,7 @@ https://public.tableau.com/app/profile/prathamesh.mool/viz/Project1FinancialComp
 
 ## Graphs used for constructing of dashboard
 
-### Percentage of customer dispute
-![db_objects](images/%_complaint_dispute.png)
+_____________________________________________________________________________________________________________________________________________________________________
 
 ### Complaints By Product
 ![db_objects](images/Complaints_by_product.png)
