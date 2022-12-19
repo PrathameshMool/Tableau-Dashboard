@@ -32,4 +32,4 @@ The dashboard included a variety of charts and graphs, such as line graphs, bar 
 The sales data used to populate the dashboard was sourced from the company's internal sales database. The data was cleaned and prepped for analysis using a combination of Excel and Tableau's data preparation tools
 
 ###  You can visit the public dashbord Following this link
-https://public.tableau.com/app/profile/prathamesh.mool/viz/Project1FinancialComplaintsDashboard/financialcomplainsoverview?publish=yes
+https://public.tableau.com/app/profile/prathamesh.mool/viz/CustomerSalesAnalysis_16713570285820/Dashboard1
