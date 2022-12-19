@@ -15,6 +15,9 @@ The dashboard included a variety of charts and graphs, such as bar charts, pie c
 ### You can visit the public dashbord Following this link
 https://public.tableau.com/app/profile/prathamesh.mool/viz/Project1FinancialComplaintsDashboard/financialcomplainsoverview?publish=yes
 
+## Dashboard
+![db_objects](Dashboard_images/Financial_complaint_over_view.png)
+
 
 
 ____________________________________________________________________________________________________________________________________________________________________
@@ -33,3 +36,6 @@ The sales data used to populate the dashboard was sourced from the company's int
 
 ###  You can visit the public dashbord Following this link
 https://public.tableau.com/app/profile/prathamesh.mool/viz/CustomerSalesAnalysis_16713570285820/Dashboard1
+
+## Dashboard
+![db_objects](Dashboard_images/dashboard.png)
