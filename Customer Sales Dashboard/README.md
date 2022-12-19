@@ -13,3 +13,25 @@ https://public.tableau.com/app/profile/prathamesh.mool/viz/CustomerSalesAnalysis
 
 ## Dashboard
 ![db_objects](Images/dashboard.png)
+
+## Graphs used for construction of Dashboard
+
+### Revenue per category (butterfly graph)
+![db_objects](Images/Revenue_per_category.png)
+
+### Revenue per month (line chart)
+![db_objects](Images/Revenue_per_month.png)
+
+### Quantity revenue co relation (co relation graph
+![db_objects](Images/quantity_revenue_co_relation.png)
+
+### Revenue per state (World Map)
+![db_objects](Images/revennue_per_state.png)
+
+### Revenue per age (histogram)
+![db_objects](Images/revenue_per_age.png)
+
+### Revenue percentage per region (donut chart)
+![db_objects](Images/revenue_percentage_per_region.png)
+
+
