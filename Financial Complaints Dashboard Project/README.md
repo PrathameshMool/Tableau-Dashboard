@@ -18,4 +18,20 @@ Link to public view of the dashboard
 https://public.tableau.com/app/profile/prathamesh.mool/viz/Project1FinancialComplaintsDashboard/financialcomplainsoverview
 
 
+## Dashboard 
 ![db_objects](images/Financial_complaint_over_view.png)
+
+## Graphs used for constructing of dashboard
+
+### Percentage of customer dispute
+![db_objects](images/%_complaint_dispute.png)
+
+### Complaints By Product
+![db_objects](images/Complaints_by_product.png)
+
+### Complaints by issue
+![db_objects](images/complaints_by_issue.png)
+
+### Complaints received from various forms of media
+![db_objects](images/complaints_by_media.png)
+
