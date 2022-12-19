@@ -5,7 +5,7 @@ The goal of this project was to create a customer sales dashboard using Tableau 
 
 The dashboard included a variety of charts and graphs, such as line graphs, bar charts, and pie charts, to represent data in an easy-to-understand format. It also included interactive features, such as filters and parameters, to allow users to customize the data displayed on the dashboard and focus on specific areas of interest.
 
-The sales data used to populate the dashboard was sourced from the company's internal sales database. The data was cleaned and prepped for analysis using a combination of Excel and Tableau's data preparation tools
+The data was cleaned and prepped for analysis using a combination of Excel and Tableau's data preparation tools
 
 You can visit the public dashbord Following this link
 https://public.tableau.com/app/profile/prathamesh.mool/viz/Project1FinancialComplaintsDashboard/financialcomplainsoverview?publish=yes
