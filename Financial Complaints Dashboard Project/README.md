@@ -16,4 +16,6 @@ Overall, the financial complaints dashboard provides a valuable resource for the
 Link to public view of the dashboard
 
 https://public.tableau.com/app/profile/prathamesh.mool/viz/Project1FinancialComplaintsDashboard/financialcomplainsoverview
-![db_objects](Financial Complaints Dashboard Project/Dashboard images/Financial_complaint_over_view.png)
+
+
+![db_objects](Dashboard images/Financial_complaint_over_view.png)
